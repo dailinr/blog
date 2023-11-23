@@ -2,6 +2,9 @@
 
 Cada usuario puede tener un rol al logearse (admin o usuario normal).
 
-El administrador podrá no solo publicar y editar sus propios artículos sino también tendrá permiso a una vista donde podrá listar, editar los artículos de todos los usuarios de la plataforma.
+Ambos puedes publicar artículos y comentarios en publicaciones de otros usuarios.
 
-los artículos publicados se pueden adjuntar imágenes y editar formato de su texto.
+Los artículos publicados se pueden adjuntar imágenes y editar formato de su texto.
+
+El administrador podrá no solo publicar y editar sus propios artículos sino también tendrá permiso a una vista donde podrá listar, editar y eliminar todos los artículos, comentarios y usuarios de la plataforma.
+
